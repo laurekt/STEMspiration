@@ -27,7 +27,7 @@ struct ContentView: View {
                         .fontWeight(.bold)
                         .padding(15)
                     
-                    Text("Coder of Fantasy")
+                    Text("Coder of Fantasy!")
                 }
                 
                 
